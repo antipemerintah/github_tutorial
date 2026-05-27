@@ -37,4 +37,4 @@
 3. git remote set-url origin git@github-akun_ke2:username_akun2/nama-repo
 
 # detail
-untuk lihat detail file nya kamu bisa ke C:\Users\Admin\.ssh
+untuk lihat detail file nya kamu bisa ke `C:\Users\Admin\.ssh`
